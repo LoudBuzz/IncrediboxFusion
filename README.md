@@ -2,6 +2,8 @@
 
 ![alt text](https://i.imgur.com/nDJ75pH.png)
 
+</p>
+
 ![alt text](https://i.imgur.com/YbMNaZh.png)
 
 # Incredibox Fusion
@@ -25,4 +27,3 @@ Please make sure to update tests as appropriate.
 
 I made this with all my effort and time, please enjoy it! ❤️
 #SaveIncredibox -
-</p>
