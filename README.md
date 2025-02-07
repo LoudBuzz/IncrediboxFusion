@@ -1,8 +1,6 @@
-<p style="text-align: center;">
 
-![alt text](https://i.imgur.com/nDJ75pH.png)
 
-</p>
+![alt text](https://i.imgur.com/nDJ75pH.png) ![alt text](https://i.imgur.com/kcd68nT.png)
 
 ![alt text](https://i.imgur.com/YbMNaZh.png)
 
