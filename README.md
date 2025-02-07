@@ -17,9 +17,9 @@ In the releases tab there's builds to everyone play without Clickteam fusion 2.5
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
-<br>
+<br><br>
 to discuss what you would like to change.
-<br>
+<br><br>
 Please make sure to update tests as appropriate.
 
 ## Thank you for see this!
